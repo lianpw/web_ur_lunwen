@@ -1,0 +1,21 @@
+INFO     2022-09-21 19:02:54 [cores.kdt:58]  : 正在定位元素: ('xpath', '//*[@id="username"]')
+INFO     2022-09-21 19:02:54 [cores.kdt:61]  : 元素定位成功
+INFO     2022-09-21 19:02:54 [cores.kdt:58]  : 正在定位元素: ('xpath', '//*[@id="password"]')
+INFO     2022-09-21 19:02:54 [cores.kdt:61]  : 元素定位成功
+INFO     2022-09-21 19:02:55 [cores.kdt:58]  : 正在定位元素: ('xpath', '//*[@id="verify_code"]')
+INFO     2022-09-21 19:02:55 [cores.kdt:61]  : 元素定位成功
+INFO     2022-09-21 19:02:55 [cores.kdt:58]  : 正在定位元素: ('xpath', '//*[@id="loginform"]/div/div[6]/a')
+INFO     2022-09-21 19:02:55 [cores.kdt:61]  : 元素定位成功
+INFO     2022-09-21 19:02:55 [cores.kdt:58]  : 正在定位元素: ('xpath', '/html/body/div[1]/div/div/div/div[2]/a[2]')
+INFO     2022-09-21 19:03:01 [cores.kdt:61]  : 元素定位成功
+INFO     2022-09-21 19:03:01 [cores.kdt:100]  : 元素的文本是安全退出
+INFO     2022-09-21 19:03:01 [cores.kdt:102]  : 预期的文本是安全退出
+INFO     2022-09-21 19:03:09 [cores.kdt:58]  : 正在定位元素: ('xpath', '//*[@id="q"]')
+INFO     2022-09-21 19:03:09 [cores.kdt:61]  : 元素定位成功
+INFO     2022-09-21 19:03:09 [cores.kdt:58]  : 正在定位元素: ('xpath', '//*[@id="searchForm"]/button')
+INFO     2022-09-21 19:03:09 [cores.kdt:61]  : 元素定位成功
+INFO     2022-09-21 19:03:19 [cores.kdt:58]  : 正在定位元素: ('xpath', '/html/body/div[4]/div/div[2]/div[2]/ul/li[2]/div/div[4]/a')
+INFO     2022-09-21 19:03:19 [cores.kdt:61]  : 元素定位成功
+INFO     2022-09-21 19:03:47 [cores.kdt:58]  : 正在定位元素: ('xpath', '//*[@id="join_cart"]')
+INFO     2022-09-21 19:03:47 [cores.kdt:61]  : 元素定位成功
+INFO     2022-09-21 19:03:47 [cores.kdt:66]  : 正在定位元素: ('xpath', '//*[@id="layui-layer-iframe2"]')

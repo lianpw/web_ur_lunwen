@@ -1,0 +1,7 @@
+selenium
+webdriver-helper
+pytest
+pytest-rerunfailures
+allure-pytest
+openpyxl
+pydantic

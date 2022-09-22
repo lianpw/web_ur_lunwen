@@ -1,0 +1,12 @@
+INFO     cores.kdt:kdt.py:58 正在定位元素: ('xpath', '//*[@id="username"]')
+INFO     cores.kdt:kdt.py:61 元素定位成功
+INFO     cores.kdt:kdt.py:58 正在定位元素: ('xpath', '//*[@id="password"]')
+INFO     cores.kdt:kdt.py:61 元素定位成功
+INFO     cores.kdt:kdt.py:58 正在定位元素: ('xpath', '//*[@id="verify_code"]')
+INFO     cores.kdt:kdt.py:61 元素定位成功
+INFO     cores.kdt:kdt.py:58 正在定位元素: ('xpath', '//*[@id="loginform"]/div/div[6]/a')
+INFO     cores.kdt:kdt.py:61 元素定位成功
+INFO     cores.kdt:kdt.py:58 正在定位元素: ('xpath', '/html/body/div[1]/div/div/div/div[2]/a[2]')
+INFO     cores.kdt:kdt.py:61 元素定位成功
+INFO     cores.kdt:kdt.py:100 元素的文本是安全退出
+INFO     cores.kdt:kdt.py:102 预期的文本是安全退出

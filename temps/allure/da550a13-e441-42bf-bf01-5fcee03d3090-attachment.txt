@@ -1,0 +1,9 @@
+INFO     cores.kdt:kdt.py:58 正在定位元素: ('xpath', '//*[@id="q"]')
+INFO     cores.kdt:kdt.py:61 元素定位成功
+INFO     cores.kdt:kdt.py:58 正在定位元素: ('xpath', '//*[@id="searchForm"]/button')
+INFO     cores.kdt:kdt.py:61 元素定位成功
+INFO     cores.kdt:kdt.py:58 正在定位元素: ('xpath', '/html/body/div[4]/div/div[2]/div[2]/ul/li[2]/div/div[4]/a')
+INFO     cores.kdt:kdt.py:61 元素定位成功
+INFO     cores.kdt:kdt.py:58 正在定位元素: ('xpath', '//*[@id="join_cart"]')
+INFO     cores.kdt:kdt.py:61 元素定位成功
+INFO     cores.kdt:kdt.py:66 正在定位元素: ('xpath', '//*[@id="layui-layer-iframe2"]')
